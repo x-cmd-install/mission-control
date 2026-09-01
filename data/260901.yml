@@ -1,0 +1,62 @@
+about:
+  description: Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
+  license: MIT
+  homepage: https://mc.builderz.dev
+  head: 5483a0e
+  archived: false
+  latestVersion: v2.3.0
+  collectedAt: 2026-09-01T04:54:24Z
+timeline:
+  created: 2026-02-13
+  lastCommit: 2026-08-25
+  lastRelease: 2026-07-25
+popularity:
+  star: 6149
+  watcher: 31
+  fork: 66
+  release: 9
+  contributor: 46
+  pullRequest: 266
+  issue: 268
+language:
+  TypeScript: 4790985
+  JavaScript: 150125
+  Shell: 65767
+  CSS: 27989
+  PowerShell: 16486
+  Python: 7194
+  Dockerfile: 4712
+totalLine: 5063258
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 8
+    openPR: 9
+    closedIssue: 4
+    openIssue: 4
+    commit: 9
+  last90d:
+    since: 2026-06-03
+    release: 3
+    mergedPR: 155
+    openPR: 10
+    closedIssue: 8
+    openIssue: 9
+    commit: 160
+  last180d:
+    since: 2026-03-05
+    release: 5
+    mergedPR: 293
+    openPR: 11
+    closedIssue: 152
+    openIssue: 10
+    commit: 331
+  last360d:
+    since: 2025-09-06
+    release: 9
+    mergedPR: 393
+    openPR: 11
+    closedIssue: 258
+    openIssue: 10
+    commit: 452
