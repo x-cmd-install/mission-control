@@ -5,18 +5,18 @@ about:
   head: 5483a0e
   archived: false
   latestVersion: "v2.3.0"
-  collectedAt: 2026-09-07T05:03:22Z
+  collectedAt: 2026-09-07T19:27:40Z
 timeline:
   created: 2026-02-13
   lastCommit: 2026-08-25
   lastRelease: 2026-07-25
 popularity:
-  star: 6186
+  star: 6191
   watcher: 31
   fork: 76
   release: 9
   contributor: 44
-  pullRequest: 667
+  pullRequest: 668
   issue: 269
 language:
   TypeScript: 4790985
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 8
-    openPR: 15
+    openPR: 16
     closedIssue: 4
     openIssue: 3
     commit: 9
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 132
-    openPR: 16
+    openPR: 17
     closedIssue: 7
     openIssue: 10
     commit: 134
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-09
     release: 3
     mergedPR: 154
-    openPR: 16
+    openPR: 17
     closedIssue: 7
     openIssue: 10
     commit: 160
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-11
     release: 5
     mergedPR: 284
-    openPR: 17
+    openPR: 18
     closedIssue: 138
     openIssue: 11
     commit: 270
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-12
     release: 9
     mergedPR: 393
-    openPR: 17
+    openPR: 18
     closedIssue: 258
     openIssue: 11
     commit: 452
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-17
     release: 9
     mergedPR: 393
-    openPR: 17
+    openPR: 18
     closedIssue: 258
     openIssue: 11
     commit: 536
 total:
   release: 9
   mergedPR: 393
-  openPR: 17
+  openPR: 18
   closedIssue: 258
   openIssue: 11
   commit: 536
 ---
 path: /home/runner/.x-repo/github.com/builderz-labs/mission-control
-collectedAt: 2026-09-07T05:03:25Z
+collectedAt: 2026-09-07T19:27:44Z
 loc:
   TypeScript:
     code: 69100
@@ -171,7 +171,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:03:26+00:00
+  collectedAt: 2026-09-07T19:27:50+00:00
   platform:
     darwin/arm64:
       name:  null
