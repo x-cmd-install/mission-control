@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0"
   latestRelease: "v2.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:11:20Z
+  collectedAt: 2026-09-10T16:50:56Z
 timeline:
   created: 2026-02-13
   lastCommit: 2026-08-25
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-25
   lastPrerelease: 
 popularity:
-  star: 6196
+  star: 6200
   watcher: 31
   fork: 78
   release: 9
@@ -89,7 +89,7 @@ total:
   commit: 536
 ---
 path: /home/runner/.x-repo/github.com/builderz-labs/mission-control
-collectedAt: 2026-09-10T05:11:25Z
+collectedAt: 2026-09-10T16:50:59Z
 loc:
   TypeScript:
     code: 69100
