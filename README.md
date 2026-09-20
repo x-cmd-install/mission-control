@@ -4,7 +4,7 @@
 
 Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 
-![mission-control](https://repo.x-cmd.io/mission-control.svg)
+[![x-cmd/install — mission-control Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mission-control.svg)](https://x-cmd.com/install/mission-control)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **162,015** lines of code across **679** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,236 · **Forks**: 81 · **Open issues**: 269 · **Contributors**: 44
+- **Stars**: 6,245 · **Forks**: 83 · **Open issues**: 269 · **Contributors**: 44
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **162,015** lines of code across **679** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 7 | 20 | 2 | 2 | 2 |
-| last60d | 2026-07-20 | 1 | 17 | 22 | 4 | 7 | 20 |
-| 90d | 2026-06-20 | 3 | 153 | 22 | 7 | 10 | 159 |
-| last180d | 2026-03-22 | 3 | 213 | 23 | 77 | 11 | 217 |
-| 360d | 2025-09-23 | 9 | 393 | 23 | 258 | 11 | 452 |
-| last720d | 2024-09-28 | 9 | 393 | 23 | 258 | 11 | 536 |
+| 30d | 2026-08-21 | 0 | 2 | 20 | 0 | 2 | 0 |
+| last60d | 2026-07-22 | 1 | 17 | 22 | 4 | 5 | 9 |
+| 90d | 2026-06-22 | 3 | 152 | 22 | 7 | 10 | 158 |
+| last180d | 2026-03-24 | 3 | 202 | 23 | 68 | 11 | 207 |
+| 360d | 2025-09-25 | 9 | 393 | 23 | 258 | 11 | 452 |
+| last720d | 2024-09-30 | 9 | 393 | 23 | 258 | 11 | 536 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mission-control lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:15:54Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:25:31Z._
