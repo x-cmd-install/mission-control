@@ -4,7 +4,7 @@
 
 Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 
-[![x-cmd/install — mission-control Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mission-control.svg)](https://x-cmd.com/install/mission-control)
+[![x-cmd/install — mission-control Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mission-control.svg)](https://x-cmd.com/install/mission-control)
 
 ## Install
 
@@ -33,26 +33,26 @@ Total: **162,015** lines of code across **679** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.0` (2026-07-25)
-- **Last commit**: 2026-08-25
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 6,249 · **Forks**: 88 · **Open issues**: 269 · **Contributors**: 44
+- **Stars**: 6,257 · **Forks**: 93 · **Open issues**: 269 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 393 · **Open PRs**: 23 · **Closed issues**: 258 · **Open issues**: 11 · **Commits**: 536
+- **Releases**: 9 · **Merged PRs**: 393 · **Open PRs**: 29 · **Closed issues**: 258 · **Open issues**: 11 · **Commits**: 538
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 20 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 1 | 17 | 22 | 4 | 5 | 9 |
-| 90d | 2026-06-24 | 3 | 152 | 22 | 7 | 10 | 158 |
-| last180d | 2026-03-26 | 3 | 198 | 23 | 64 | 11 | 207 |
-| 360d | 2025-09-27 | 9 | 393 | 23 | 258 | 11 | 452 |
-| last720d | 2024-10-02 | 9 | 393 | 23 | 258 | 11 | 536 |
+| 30d | 2026-08-24 | 0 | 2 | 23 | 0 | 2 | 2 |
+| last60d | 2026-07-25 | 1 | 9 | 28 | 4 | 5 | 11 |
+| 90d | 2026-06-25 | 3 | 152 | 28 | 7 | 10 | 160 |
+| last180d | 2026-03-27 | 3 | 198 | 29 | 63 | 11 | 209 |
+| 360d | 2025-09-28 | 9 | 393 | 29 | 258 | 11 | 454 |
+| last720d | 2024-10-03 | 9 | 393 | 29 | 258 | 11 | 538 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mission-control lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:23:38Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:28:30Z._

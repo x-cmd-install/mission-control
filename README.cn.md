@@ -4,7 +4,7 @@
 
 Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 
-[![x-cmd/install — mission-control Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mission-control.svg?lang=zh)](https://x-cmd.com/install/mission-control)
+[![x-cmd/install — mission-control Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/mission-control.svg?lang=zh)](https://x-cmd.com/install/mission-control)
 
 ## 安装
 
@@ -33,26 +33,26 @@ x install mission-control
 ## 发布
 
 - **最新版本**: `v2.3.0` (2026-07-25)
-- **最近提交**: 2026-08-25
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 6,249 · **Fork**: 88 · **开放 issue**: 269 · **贡献者**: 44
+- **Star**: 6,257 · **Fork**: 93 · **开放 issue**: 269 · **贡献者**: 44
 
 ## 累计统计
 
-- **发布数**: 9 · **已合并 PR**: 393 · **开放 PR**: 23 · **已关闭 issue**: 258 · **开放 issue**: 11 · **提交数**: 536
+- **发布数**: 9 · **已合并 PR**: 393 · **开放 PR**: 29 · **已关闭 issue**: 258 · **开放 issue**: 11 · **提交数**: 538
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 20 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 1 | 17 | 22 | 4 | 5 | 9 |
-| 90d | 2026-06-24 | 3 | 152 | 22 | 7 | 10 | 158 |
-| last180d | 2026-03-26 | 3 | 198 | 23 | 64 | 11 | 207 |
-| 360d | 2025-09-27 | 9 | 393 | 23 | 258 | 11 | 452 |
-| last720d | 2024-10-02 | 9 | 393 | 23 | 258 | 11 | 536 |
+| 30d | 2026-08-24 | 0 | 2 | 23 | 0 | 2 | 2 |
+| last60d | 2026-07-25 | 1 | 9 | 28 | 4 | 5 | 11 |
+| 90d | 2026-06-25 | 3 | 152 | 28 | 7 | 10 | 160 |
+| last180d | 2026-03-27 | 3 | 198 | 29 | 63 | 11 | 209 |
+| 360d | 2025-09-28 | 9 | 393 | 29 | 258 | 11 | 454 |
+| last720d | 2024-10-03 | 9 | 393 | 29 | 258 | 11 | 538 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ mission-control 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:23:39Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:28:30Z._
