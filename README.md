@@ -14,14 +14,14 @@ x install mission-control
 
 ## Code insight
 
-Total: **162,015** lines of code across **679** files in the top 5 languages.
+Total: **162,445** lines of code across **686** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 69,100 | 5,040 | 10,426 | 543 |
-| Tsx | 40,893 | 948 | 3,229 | 95 |
+| TypeScript | 69,528 | 5,076 | 10,485 | 550 |
+| Tsx | 40,897 | 948 | 3,229 | 95 |
 | Json | 36,888 | 0 | 0 | 20 |
-| Yaml | 8,041 | 29 | 2,131 | 4 |
+| Yaml | 8,039 | 29 | 2,129 | 4 |
 | JavaScript | 3,685 | 203 | 385 | 17 |
 
 ## Source
@@ -33,26 +33,26 @@ Total: **162,015** lines of code across **679** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.3.0` (2026-07-25)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-10-28
 
 ## Popularity
 
-- **Stars**: 6,408 · **Forks**: 123 · **Open issues**: 274 · **Contributors**: 44
+- **Stars**: 6,411 · **Forks**: 122 · **Open issues**: 274 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 393 · **Open PRs**: 46 · **Closed issues**: 258 · **Open issues**: 16 · **Commits**: 538
+- **Releases**: 9 · **Merged PRs**: 397 · **Open PRs**: 42 · **Closed issues**: 258 · **Open issues**: 16 · **Commits**: 542
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 0 | 20 | 0 | 3 | 0 |
-| last60d | 2026-08-29 | 0 | 0 | 38 | 0 | 6 | 2 |
-| 90d | 2026-07-30 | 0 | 9 | 44 | 4 | 9 | 11 |
-| last180d | 2026-05-01 | 3 | 165 | 46 | 24 | 16 | 180 |
-| 360d | 2025-11-02 | 9 | 393 | 46 | 258 | 16 | 454 |
-| last720d | 2024-11-07 | 9 | 393 | 46 | 258 | 16 | 538 |
+| 30d | 2026-09-29 | 0 | 4 | 13 | 0 | 3 | 4 |
+| last60d | 2026-08-30 | 0 | 4 | 34 | 0 | 6 | 6 |
+| 90d | 2026-07-31 | 0 | 13 | 40 | 4 | 9 | 15 |
+| last180d | 2026-05-02 | 3 | 168 | 42 | 24 | 16 | 184 |
+| 360d | 2025-11-03 | 9 | 397 | 42 | 258 | 16 | 458 |
+| last720d | 2024-11-08 | 9 | 397 | 42 | 258 | 16 | 542 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mission-control lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:05:13Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:12:41Z._
