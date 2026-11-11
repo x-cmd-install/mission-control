@@ -37,22 +37,22 @@ Total: **162,445** lines of code across **686** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,469 · **Forks**: 133 · **Open issues**: 274 · **Contributors**: 44
+- **Stars**: 6,475 · **Forks**: 134 · **Open issues**: 274 · **Contributors**: 44
 
 ## Totals (cumulative)
 
-- **Releases**: 9 · **Merged PRs**: 397 · **Open PRs**: 43 · **Closed issues**: 258 · **Open issues**: 16 · **Commits**: 542
+- **Releases**: 9 · **Merged PRs**: 397 · **Open PRs**: 44 · **Closed issues**: 258 · **Open issues**: 16 · **Commits**: 542
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 4 | 10 | 0 | 2 | 4 |
-| last60d | 2026-09-11 | 0 | 4 | 27 | 0 | 4 | 6 |
-| 90d | 2026-08-12 | 0 | 12 | 41 | 4 | 6 | 15 |
-| last180d | 2026-05-14 | 3 | 160 | 42 | 11 | 15 | 167 |
-| 360d | 2025-11-15 | 9 | 397 | 43 | 258 | 16 | 458 |
-| last720d | 2024-11-20 | 9 | 397 | 43 | 258 | 16 | 542 |
+| 30d | 2026-10-12 | 0 | 4 | 11 | 0 | 2 | 4 |
+| last60d | 2026-09-12 | 0 | 4 | 28 | 0 | 4 | 6 |
+| 90d | 2026-08-13 | 0 | 11 | 42 | 4 | 6 | 15 |
+| last180d | 2026-05-15 | 3 | 160 | 43 | 11 | 15 | 167 |
+| 360d | 2025-11-16 | 9 | 397 | 44 | 258 | 16 | 458 |
+| last720d | 2024-11-21 | 9 | 397 | 44 | 258 | 16 | 542 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for mission-control lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:41:47Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:49:57Z._
