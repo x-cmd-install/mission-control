@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.0"
   latestRelease: "v2.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:13:25Z
+  collectedAt: 2026-11-28T08:14:21Z
 timeline:
   created: 2026-02-13
   lastCommit: 2026-10-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-25
   lastPrerelease: 
 popularity:
-  star: 6523
+  star: 6525
   watcher: 31
   fork: 146
   release: 9
@@ -33,7 +33,7 @@ language:
 totalBytes: 5084902
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 6
@@ -41,15 +41,15 @@ recent:
     openIssue: 4
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 4
-    openPR: 20
+    openPR: 17
     closedIssue: 0
     openIssue: 7
     commit: 4
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 4
     openPR: 37
@@ -57,7 +57,7 @@ recent:
     openIssue: 10
     commit: 6
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 3
     mergedPR: 159
     openPR: 44
@@ -65,7 +65,7 @@ recent:
     openIssue: 19
     commit: 166
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 9
     mergedPR: 397
     openPR: 45
@@ -73,7 +73,7 @@ recent:
     openIssue: 20
     commit: 458
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 9
     mergedPR: 397
     openPR: 45
@@ -89,7 +89,7 @@ total:
   commit: 542
 ---
 path: /home/runner/.x-repo/github.com/builderz-labs/mission-control
-collectedAt: 2026-11-27T09:13:29Z
+collectedAt: 2026-11-28T08:14:24Z
 loc:
   TypeScript:
     code: 69528
